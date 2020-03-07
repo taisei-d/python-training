@@ -1,4 +1,4 @@
-kens = ["Tottori","Shimane","END","Hiroshima","Okayama","Yamaguchi"]
+kens = ["Tottori","Shimane","END","Hiroshima","Okayama","Yamaguchi", "Hyogo"]
 
 for ken in kens:
     if ken == "END":
